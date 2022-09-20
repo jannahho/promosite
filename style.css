@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Nabla&family=Special+Elite&display=swap');
+body {
+  background-color: black;
+  font-family: 'Special Elite', display;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  margin-top: 60px;
+}
+h2 {
+  color: #FF8733;
+  font-size: 65px;
+  font-style: italic;
+  letter-spacing: 5px;
+}
+
+.extremeheader:hover {
+  font-size: 250px;
+}
+.bunny1 {
+  width: 100px;
+  float: right;
+  margin-right: 400px;
+  margin-top: -40px;
+}
+.bunny2 {
+  width: 100px;
+  float: left;
+  margin-left: 400px;
+  margin-top: -50px;
+}
+
+#Header {
+  font-size: 30px;
+  text-align: center;
+  line-height: 10px;
+}
+
+.ex1 {
+  color: #FF8733;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  font-size: 80px;
+  font-family: 'Special Elite', display;
+  float: left;
+  letter-spacing: 30px;
+  overflow: hidden;
+}
+
+.ex1:hover {
+  color: red;
+}
+
+.ex2 {
+  color: #FF8733;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  font-size: 80px;
+  font-family: 'Special Elite', display;
+  float: right;
+  letter-spacing: 30px;
+  overflow: hidden;
+}
+
+.ex2:hover {
+  color: blue;
+}
+
+.p1 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  overflow: visible;
+}
+
+.p2 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  overflow: visible;
+}
+
+.p2:hover {
+  opacity: 0;
+}
+
+.description {
+  text-align: center;
+}
+
+i {
+  font-style: italic;
+}
+
+a {
+  color: #6857ff;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+
+.ninjastar {
+  height:80px;
+}
+
+.ghostbunny {
+  width: 60px;
+}
+
+.starline {
+  display: inline;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+  font-size: 40px;
+}
+
+.p4 {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  letter-spacing: 3px;
+}
+
+.p5 {
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+
+.bunnyhead {
+  width: 500px;
+  float: left;
+  margin-bottom: 0px;
+}
+
+.p6 {
+  color: #6857ff;
+  margin-left: 750px;
+  font-size: 40px;
+  text-align: justify;
+}
+.p7 {
+  color: blue;
+  margin-left: 750px;
+  font-size: 30px;
+  text-align: justify;
+  opacity: 0;
+}
+
+.p7:hover {
+  opacity: 1;
+}
+
+.p8 {
+  color: blue;
+  font-size: 60px;
+  text-align: center;
+  opacity: 0;
+}
+
+.p8:hover {
+    opacity: 1;
+}
